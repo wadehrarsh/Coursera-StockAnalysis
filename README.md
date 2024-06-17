@@ -1,1 +1,3 @@
-"Coursera-StockAnalysis" 
+## Coursera-StockAnalysis
+
+Using Python, Panda & Plotly
